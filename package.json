@@ -1,0 +1,26 @@
+{
+  "name": "ejercicios-backend-devf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ejercicios.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuankPedraza/ejercicios-backend-DevF.git"
+  },
+  "author": "Juan Camilo Pedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuankPedraza/backend-Devf/issues"
+  },
+  "homepage": "https://github.com/JuankPedraza/backend-Devf#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
